@@ -1,0 +1,96 @@
+*¨{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: #ffffff;
+}
+
+header{
+	text-align: center;
+}
+
+
+nav{
+	background: #004967;
+	border-top: 7px solid #e26909;
+	border-bottom: 7px solid #f4af00;
+
+}
+nav li{
+	list-style: none;
+	display: inline-block;
+
+
+}
+
+nav a{
+	color: #e5e5c4;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: arial;
+	text-decoration: none;
+	padding: 20px;
+}
+
+nav a:hover{
+	background: #f4af00;
+	color: #004967;
+}
+
+#contenido{
+	max-width: 70%;
+	float: left;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+.Intro{
+	margin: 20px;
+}
+
+.Lecturas{
+	display: inline-block;
+	margin: 20px;
+}
+.Multimedia{
+	display: inline-block;
+	margin: 20px;
+}
+.Actividades{
+	display: inline-block;
+	margin: 20px;	
+}
+.Autores{
+	display: inline-block;
+	margin: 20px;
+}
+
+aside{
+	float: right;
+	width: 250px;
+	height: 500px;
+	background: #004967;
+	margin-top: 10px;
+	margin: 20px;
+	border-top: 7px solid #e26909;
+	border-bottom: 7px solid #eab200;
+	color: #ffffff;
+
+}
+footer{
+	max-width: : 100%;
+	height: 140px;
+	background: #004967;
+	color: #ffffff;
+	clear: both;
+	margin-top: 20px;
+}
+footer{
+	font-size: 15px;
+	font-family: arial;
+	text-align: center;
+
+}
